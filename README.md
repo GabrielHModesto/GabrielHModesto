@@ -1,7 +1,8 @@
-<h1> Sou Gabriel Modesto </h1> <br>
-Tenho interesse em 
-<strong> Programação, Design Grafico e Design de Experiência </strong> <br>
-Estudando linguagem <em>JavaScript</em> nos cursos da ALURA e <em>HTML/CSS</em> no MIMO
+<a href="https://ibb.co/52hWv81"><img src="https://i.ibb.co/M9kDpVg/ba6d3548e66fe8356a054a6605697e50.jpg" height="200" width="200" border="400px"></a>
+<h1> Sou Gabriel Modesto. </h1> <p>
+<h4> Tenho interesse em 
+<strong> Programação, Design Grafico e Design de Experiência. 💻 </strong> <br>
+Estudando linguagem JavaScript nos cursos da Alura e HTML/CSS no MIMO
 
 
 <!---
