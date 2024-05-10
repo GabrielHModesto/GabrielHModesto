@@ -1,6 +1,7 @@
-Sou Gabriel Modesto <br>
-Tenho interesse em Programação, Design Grafico e Design de Experiência <br>
-Estudando linguagem JavaScript nos cursos da ALURA e HTML/CSS no MIMO
+<h1> Sou Gabriel Modesto </h1> <br>
+Tenho interesse em 
+<strong> Programação, Design Grafico e Design de Experiência </strong> <br>
+Estudando linguagem <em>JavaScript</em> nos cursos da ALURA e <em>HTML/CSS</em> no MIMO
 
 
 <!---
